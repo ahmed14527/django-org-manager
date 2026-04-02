@@ -418,7 +418,6 @@ json
 }
 📊 Database Schema
 Entity Relationship Diagram
-text
 ┌─────────────┐     ┌──────────────┐     ┌────────────────┐
 │    User     │     │  Membership  │     │  Organization  │
 ├─────────────┤     ├──────────────┤     ├────────────────┤
