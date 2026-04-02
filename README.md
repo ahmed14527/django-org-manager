@@ -1,5 +1,4 @@
 Multi-Tenant Organization Manager
-
 A production-ready multi-tenant backend service with JWT authentication, role-based access control, and audit logging. Built with Django REST Framework and PostgreSQL.
 Overview
 Backend system for managing multi-tenant organizations with secure authentication, granular permissions, and activity tracking. Supports SaaS platforms, enterprise applications, and resource management systems requiring organizational isolation.
